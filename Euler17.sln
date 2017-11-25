@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler17", "Euler17\Euler17.csproj", "{D7E98BD5-924E-459D-9228-25704BE29610}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToTextConversion", "NumberToTextConversion\NumberToTextConversion.csproj", "{1463DD7E-026E-42A3-A985-D28B06FE42C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToTextConversionTest", "NumberToTextConversionTest\NumberToTextConversionTest.csproj", "{99F6105B-0761-479A-87A5-80A9753943A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D7E98BD5-924E-459D-9228-25704BE29610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E98BD5-924E-459D-9228-25704BE29610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E98BD5-924E-459D-9228-25704BE29610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1463DD7E-026E-42A3-A985-D28B06FE42C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1463DD7E-026E-42A3-A985-D28B06FE42C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1463DD7E-026E-42A3-A985-D28B06FE42C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1463DD7E-026E-42A3-A985-D28B06FE42C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F6105B-0761-479A-87A5-80A9753943A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F6105B-0761-479A-87A5-80A9753943A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F6105B-0761-479A-87A5-80A9753943A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F6105B-0761-479A-87A5-80A9753943A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
